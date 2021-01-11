@@ -1,0 +1,271 @@
+body {
+    background-image: url(fond.jpg);
+    background-attachment: fixed;
+    font-family: Brush Script MT, Brush Script Std, cursive, serif;
+    font-size: 130%;
+    color:#c7000b;
+
+  }
+
+
+#GrosTitre {
+background-image: url(GTitre.jpg);
+background-position: center;
+border-radius: 50%;
+font-size:4em;
+text-align: center;
+padding:100px;
+margin:50px;
+}
+
+
+#Titre {
+background-image: url(classe.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+font-size:2.5em;
+border:5px #474747 double;
+border-radius: 50%;
+text-align: center;
+margin:50px;
+padding: 10%;
+padding-top: calc(10% + 100px);
+
+}
+
+/*
+Carte bleu        :        Cupidon
+Carte jaune       :        Villageois
+Carte blanc       :        Loup blanc
+Carte marron      :        Chasseur
+Carte mauve       :        Voyante
+Carte orange      :        Sorcière
+Carte rose        :        Petite fille
+Carte rouge       :        Loup
+Carte vert        :        Voleur
+Carte jaune foncé :        Idiot du village
+Carte bleu foncé  :        Renard
+Carte vert foncé  :        Enfant sauvage */
+
+#Jimmy {
+background-image: url(carteblanche.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+
+}
+
+#Julie{
+background-image: url(carterose.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+
+}
+#David{
+
+background-image: url(cartejf.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+
+}    
+#bengamin {
+
+background-image: url(cartesvf.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#jeina {
+
+background-image: url(cartemauve.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#mariam {
+
+background-image: url(cartebleu.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#mohamed {
+
+background-image: url(cartemarron.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#aline {
+
+background-image: url(carteorange.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#tom {
+
+background-image: url(cartebf.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#seddik {
+
+background-image: url(catrevert.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#fekkar {
+
+background-image: url(cartejaune.jpg);
+background-size: 150%;
+background-position: center;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+}
+
+#remi {
+background-image: url(carterouge.jpg);
+background-size: 200%;
+border:3px #474747 outset;
+border-radius: 40px;
+padding:10px;
+width: 20%;
+height: 500px;
+text-align: right;
+color:#e6e6e6;
+}
+
+#imgr {
+  float: left;
+  vertical-align: top;
+   
+}
+
+#imgr2 {
+  float: right;
+  vertical-align: bottom;
+   
+}
+.block-trombinoscope{
+display: flex;
+justify-content: space-around;
+margin-top:10%;
+
+}
+
+.citation {
+text-align: left;
+}
+
+
+#login {
+position: fixed;
+top: 0;
+right: 0;
+bottom: 0;
+border:4px black solid;
+padding-bottom: 100%;
+margin-bottom: 100%;
+width: 20%;
+
+}
+#margeD{
+margin-right: 20%;
+
+}
+
+#QA {
+font:35px normal;
+position: absolute;
+float:right;
+top: 15%;;
+right: 2%;
+padding-right: 33.5%;
+padding-left: 33.5%;
+border-top: 4px black solid ;
+
+
+}
+
+#meteo {
+font:35px normal;
+position: absolute;
+float:right;
+top: 25%;;
+right: 2%;
+padding-right: 33.5%;
+padding-left: 33.5%;
+border-top: 4px black solid ;
+}
+
+form{
+    text-align: right; 
+    }
+    

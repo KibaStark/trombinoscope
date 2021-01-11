@@ -1,0 +1,36 @@
+body {
+    width: auto;
+    background-image: url(Hiver.jpg);
+    background-size: 110%;
+    background-attachment: fixed;
+    font-weight: bolder;
+
+  }
+#titre {
+    text-align: center;
+    opacity: 0.7;
+}
+#color1 {
+    text-align: center;
+    color:#244aff;
+}
+#color2 {
+    text-align: center;
+    color:#12781b;
+}
+#color3 {
+    text-align: center;
+    color:#35db1f;
+}
+#color4 {
+    text-align: center;
+    color:#ff9f2e;
+}
+#color5 {
+    text-align: center;
+    color:#ec2c18;
+}
+#Lien2 {
+    text-align: right;
+    float: bottom;
+}

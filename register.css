@@ -1,0 +1,38 @@
+        body {
+        width: auto;
+        background-image: url(bgregister.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        background-attachment: fixed;
+        color :#000000;
+        font-weight: bolder;
+        }
+        .container {
+            text-align: center;
+        }
+
+        #GrosTitre {
+            opacity: 0.9;
+            font-size:4em;
+            text-align: center;
+            padding:25px;
+            margin:50px;
+            width:calc(100% - 100px);
+            box-sizing: border-box;
+
+    }
+        #Titre {
+        opacity: 0.9;
+        font-size:2.5em;
+        text-align: center;
+        margin:50px;
+        width:calc(100% - 100px);
+        box-sizing: border-box;
+
+    }
+
+
+    .color {
+        color: #c7000b;
+    }
